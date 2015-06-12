@@ -4,7 +4,7 @@
  <title>Jobin Wang</title>
  <link href="http://www.bigbing.net/atom.xml" rel="self"/>
  <link href="http://www.bigbing.net/"/>
- <updated>2015-06-12T11:28:14+08:00</updated>
+ <updated>2015-06-12T22:44:31+08:00</updated>
  <id>http://www.bigbing.net</id>
  <author>
    <name>Bing</name>
@@ -19,8 +19,7 @@
    <id>http://www.bigbing.net/2015/05/30/google-io</id>
    <content type="html">&lt;p&gt;&lt;img src=&quot;/images/bing_624.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 
-&lt;p&gt;今天比较仔细得把2015 Google I/O大会的Keynote看了一遍。作为忠实的Google用户，
-还是非常高兴看到Android M, Android Wear, Google Now, Google Pictures这些产品在功能和用户体验上的改进与创新。&lt;/p&gt;
+&lt;p&gt;今天比较仔细得把2015 Google I/O大会的Keynote看了一遍。作为忠实的Google用户, 还是非常高兴看到Android M, Android Wear, Google Now, Google Pictures这些产品在功能和用户体验上的改进与创新。&lt;/p&gt;
 
 &lt;p&gt;同时，作为一位Web开发者，我会重点关注下面这些内容&lt;/p&gt;
 
