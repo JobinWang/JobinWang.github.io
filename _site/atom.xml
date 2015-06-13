@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Jobin Wang</title>
+ <title>Jobin Work</title>
  <link href="http://www.bigbing.net/atom.xml" rel="self"/>
  <link href="http://www.bigbing.net/"/>
- <updated>2015-06-12T22:44:31+08:00</updated>
+ <updated>2015-06-13T14:50:28+08:00</updated>
  <id>http://www.bigbing.net</id>
  <author>
    <name>Bing</name>
@@ -697,20 +697,7 @@ Timecop.freeze(24.hours.from_now)&lt;/li&gt;
    <link href="http://www.bigbing.net/2015/01/28/use-jekyll-and-github-pages-to-build-blog/"/>
    <updated>2015-01-28T00:00:00+08:00</updated>
    <id>http://www.bigbing.net/2015/01/28/use-jekyll-and-github-pages-to-build-blog</id>
-   <content type="html">&lt;p&gt;这篇Blog主要就是介绍我是如何使用Jekyll和GitHub pages快速得搭建了我的这个个人博客。&lt;/p&gt;
-
-&lt;p&gt;有几个很重要的前提决定了我采用这样的方案来搭建博客，而不是安装一个Wordpress或者其他的博客系统。&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;我要有自己的域名，比如：www.bigbing.net&lt;/li&gt;
-&lt;li&gt;我不想自己架设服务器或者租借空间，我想要免费的东西&lt;/li&gt;
-&lt;li&gt;作为一个开发者，我想要用&lt;code&gt;markdown&lt;/code&gt;来写东西&lt;/li&gt;
-&lt;li&gt;我写好的东西，能够使用Git进行版本控制，而且备份到服务器上&lt;/li&gt;
-&lt;li&gt;最好我也能够在手机或者pad上编辑内容&lt;/li&gt;
-&lt;li&gt;我想要自己控制网站的样式和功能，或者有模板可以用&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;基于这样的一些前提，我很容易的就发现了GitHub pages这个功能，能够满足我的需求。特别适合开发者使用，因为大部分开发者都已经有了GitHub的个人帐号，而GitHub pages支持使用Jekyll来快速生成网站页面和blog。&lt;/p&gt;
+   <content type="html">&lt;p&gt;基于这样的一些前提，我很容易的就发现了GitHub pages这个功能，能够满足我的需求。特别适合开发者使用，因为大部分开发者都已经有了GitHub的个人帐号，而GitHub pages支持使用Jekyll来快速生成网站页面和blog。&lt;/p&gt;
 
 &lt;p&gt;接下来我不会详细说明具体的步骤，我主要提供一些资源的连接，通过这些资源任何人都可以快速得搭建出自己的个人网站。&lt;/p&gt;
 
