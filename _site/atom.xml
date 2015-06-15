@@ -4,7 +4,7 @@
  <title>Jobin Work</title>
  <link href="http://www.bigbing.net/atom.xml" rel="self"/>
  <link href="http://www.bigbing.net/"/>
- <updated>2015-06-15T17:42:05+08:00</updated>
+ <updated>2015-06-15T21:52:09+08:00</updated>
  <id>http://www.bigbing.net</id>
  <author>
    <name>Bing</name>
@@ -13,22 +13,69 @@
 
  
  <entry>
-   <title>电商造节的兴起和内在逻辑</title>
+   <title>当我们讨论电商造节时，我们该讨论什么（一）</title>
    <link href="http://www.bigbing.net/2015/01/30/%E9%80%A0%E8%8A%82%E5%85%B4%E8%B5%B7%E5%92%8C%E9%80%BB%E8%BE%91/"/>
    <updated>2015-01-30T00:00:00+08:00</updated>
    <id>http://www.bigbing.net/2015/01/30/造节兴起和逻辑</id>
-   <content type="html">&lt;p&gt;再过几天，就是6.18年中大促了。这个原本京东一手打造的节日，随着各大电商加入，正在演变成另一个网购狂欢节。
-&lt;img src=&quot;/images/jd618.jpg&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+   <content type="html">&lt;blockquote&gt;
+&lt;p&gt;读前必看&lt;br/&gt;&lt;/p&gt;
 
-&lt;p&gt;接下来我不会详细说明具体的步骤，我主要提供一些资源的连接，通过这些资源任何人都可以快速得搭建出自己的个人网站。&lt;/p&gt;
+&lt;p&gt;目标读者 : 对电商活动运营感兴趣者。&lt;br/&gt;预期价值 : 1.了解电商造节的历史；2.引发对造节动机的思考。&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;GitHub pages的官方&lt;a href=&quot;https://pages.github.com/&quot;&gt;快速上手指南&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;GitHub官方提供了一个GitHub Pages Gem, 帮助你快速配置好jekyll的开发运行环境，保持跟GitHub服务器上运行的环境一致，具体的&lt;a href=&quot;https://help.github.com/articles/using-jekyll-with-pages/&quot;&gt;使用文档&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;下面这是一篇很长，但是很实用，系统的介绍文章，里面也提供了很多相关资源的连接：&lt;a href=&quot;http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/&quot;&gt;Link&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;如果要深入研究Jekyll的使用，还是需要查看&lt;a href=&quot;http://jekyllrb.com/docs/home/&quot;&gt;官方文档&lt;/a&gt;，里面有很详细的配置说明和模板等使用方法。&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;我搭建的这个blog主要使用了这个叫&lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;lanyon&lt;/a&gt;的theme,另外还有一个出自同一个作者也不错的是叫&lt;a href=&quot;https://github.com/poole/hyde&quot;&gt;hyde&lt;/a&gt;,这两个开源的theme都是基于&lt;a href=&quot;https://github.com/poole/poole&quot;&gt;poole&lt;/a&gt;项目。&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;&lt;br/&gt;
+再过几天，就是6.18年中大促了。这个原本京东一手打造的节日，随着各大电商加入，正在演变成另一个网购狂欢节。&lt;/p&gt;
+
+&lt;p&gt;除了6.18，电商造的节还有很多，比如双11、双12、517吃货节…那么，当我们谈论各种电商造节时，我们该谈论什么？&lt;/p&gt;
+
+&lt;h3&gt;一、电商造节的兴起&lt;/h3&gt;
+
+&lt;p&gt;&lt;br/&gt;造节不是电商的首创，最好的例证是美国“黑色星期五”（首次记载于1961年.Wikipedia）。这一天，美国多数实体零售店均会大幅打折吸引顾客，创造的单日交易额在全年排前三。&lt;/p&gt;
+
+&lt;p&gt;在中国，淘宝商城于2009年11月11日，携27个品牌商家，创造单日5200W销售额。经过持续大力推广，这一数值在几年间连续飙升，继而引发一场造节热潮。
+&lt;table class=&quot;table table-bordered table-striped table-condensed&quot;&gt;
+ &lt;tr&gt;
+    &lt;td&gt;&lt;b&gt;节日名称&lt;/b&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;b&gt;创立时间&lt;/b&gt;&lt;/td&gt;
+    &lt;td&gt;&lt;b&gt;创立者&lt;/b&gt;&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;双11&lt;/td&gt;
+    &lt;td&gt;2009年&lt;/td&gt;
+    &lt;td&gt;淘宝商城&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;6.18周年庆&lt;/td&gt;
+    &lt;td&gt;2010年&lt;/td&gt;
+    &lt;td&gt;京东商城&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;双12&lt;/td&gt;
+    &lt;td&gt;2011年&lt;/td&gt;
+    &lt;td&gt;淘宝&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;米粉节&lt;/td&gt;
+    &lt;td&gt;2012年&lt;/td&gt;
+    &lt;td&gt;小米&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+    &lt;td&gt;5.17吃货节&lt;/td&gt;
+    &lt;td&gt;2014年&lt;/td&gt;
+    &lt;td&gt;百度糯米&lt;/td&gt;
+ &lt;/tr&gt;&lt;/p&gt;
+
+&lt;h3&gt;二、电商造节的内在逻辑&lt;/h3&gt;
+
+&lt;p&gt;&lt;br/&gt;短期利益&lt;/p&gt;
+
+&lt;p&gt;说到底，造节只是一个促销噱头，用于吸引客流、提升销量。
+&lt;br/&gt;吸引客流效果，百度指数能在一定程度上说明问题：
+双11当天，天猫带动全网流量飙升，天猫销售额571亿，占全年11.3%，类似的情况在京东618时也会出现。&lt;/p&gt;
+
+&lt;p&gt;长期利益&lt;/p&gt;
+
+&lt;p&gt;既然造节能带来销量暴增，为什么多数造节只做一天呢？增加稀缺感是一方面，另一方面还在于打造引爆点，提升品牌传播&lt;/p&gt;
 </content>
  </entry>
  
